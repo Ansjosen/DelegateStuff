@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\obj\Debug\DelegateStuff.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\obj\Debug\DelegateStuff.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\bin\Debug\DelegateStuff.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\bin\Debug\DelegateStuff.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\bin\Debug\DelegateStuff.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\obj\Debug\DelegateStuff.exe
+C:\Users\Lenovo\Documents\Visual Studio 2019\ITUCation\DelegateStuff\DelegateStuff\obj\Debug\DelegateStuff.pdb
